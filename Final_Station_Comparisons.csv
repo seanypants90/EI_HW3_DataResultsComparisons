@@ -1,0 +1,4 @@
+Station_Number,Station_Name,Discharge_Stage1ft,DischargeM_Stage_1ft,Discharge_Stage3ft,DischargeM_Stage_3ft,Discharge_Stage6ft,DischargeM_Stage_6ft,Discharge_Stage8ft,DischargeM_Stage_8ft
+1399100,Middle Brook at Burnt Mills NJ,NaN,NaN,NaN,NaN,2.60965818,184.7060298,394.9545455,395.7144673
+1401650,Pike Run at Belle Mead NJ,NaN,NaN,2.126028046,62.01765657,324.7777778,379.969509,NaN,NaN
+1403400,Green Brook at Seeley Mills NJ,0.427078125,2.030675754,91.414,37.71595379,NaN,NaN,NaN,NaN
